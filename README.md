@@ -6,6 +6,8 @@
 
 Technologies Used:
 - ejs
+- bootstrap
+- javascript
 - nodejs
 - express
 - mongodb
@@ -15,4 +17,4 @@ To use:
 - clone this repo
 - in termimal run 'npm install' to install node modules
 - run 'node server.js'
-- navigate to localhost:3000 
+- navigate to localhost:3000
