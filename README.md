@@ -13,5 +13,6 @@ Technologies Used:
 To use:
 
 - clone this repo
-- in termimal run npm install
-- navigate to localhost:3000
+- in termimal run 'npm install' to install node modules
+- run 'node server.js'
+- navigate to localhost:3000 
